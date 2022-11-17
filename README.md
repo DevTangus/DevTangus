@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gilbert Cheruiyot</h1>
-<h3 align="center">A passionate full stack developer from Kenya working with Reactjs and Ruby on Rails.</h3>
+<h3 align="center">I bring ideas to life. React js, Ruby on Rails developer..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devtangus&label=Profile%20views&color=0e75b6&style=flat" alt="devtangus" /> </p>
 
