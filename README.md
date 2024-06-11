@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gilbert Cheruiyot</h1>
-<h3 align="center">Software Developer | Cloud Enthusiast | Technical Writer</h3>
+<h3 align="center">| Cloud &DevOps Engineer | Technical Writer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devtangus&label=Profile%20views&color=0e75b6&style=flat" alt="devtangus" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/@gilbertofke_" target="blank"><img src="https://img.shields.io/twitter/follow/@gilbertofke_?logo=twitter&style=for-the-badge" alt="@gilbertofke_" /></a> </p>
 
-- 🔭 I’m currently working on [Mental health chatbot](https://github.com/DevTangus/Mental-Health-Chatbot)
+- 🔭 I’m currently working on DevOps/Cloud Projects
 
-- 🌱 I’m currently learning **AWS Cloud and Golang**
+- 🌱 I’m currently learning **Kubernetes**
 
-- 👯 I’m looking to collaborate on **Golang/Python Projects**
+- 👯 I’m looking to collaborate on **DevOps/Cloud/Python Projects**
 
-- 📝 I regularly write articles on [https://hashnode.com/@gilbertofke](https://hashnode.com/@gilbertofke)
+- 📝 I regularly write articles on [https://hashnode.com/@gilbertofke](https://hashnode.com/@gilbertofke) and on [https://medium.com/@gilbertofke](https://medium.com/@gilbertofke)]
 
-- 💬 Ask me about **React,Node.js, Typescript**
+- 💬 Ask me about **AWS &DevOps**
 
 - 📫 How to reach me **kipngenogilbert96@gmail.com**
 
